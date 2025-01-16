@@ -1,3 +1,2 @@
-How to deploy your own HTML, and other factors to narrow your decision
-
+A walkthrough on how to deploy your own static/dynamic website!
 Made as a project for my web design class
