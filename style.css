@@ -1,0 +1,26 @@
+@import url('https://fonts.cdnfonts.com/css/satoshi');
+
+body, html {
+    font-family: 'Satoshi', 'Verdana', sans-serif;
+    background-color: #000000;
+    padding-left: 3em;
+    padding-right: 3em;
+    color: #fff;
+    font-size: 1.06em;
+}
+.btn {
+    border: solid 3px #fff;
+    border-radius: 1em;
+    padding: 1em; 
+    text-decoration: none;
+    color: #fff;
+    transition: all 0.3s;
+    line-height: 5em;
+}
+.btn:hover {
+    transform: scale(1.2);
+    color: #f2c084;
+}
+a {
+    color: #f2c084;
+}
