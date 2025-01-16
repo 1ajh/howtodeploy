@@ -3,7 +3,8 @@
 body, html {
     font-family: 'Satoshi', 'Verdana', sans-serif;
     background-color: #000000;
-    padding: 3em;
+    padding-left: 3em;
+    padding-right: 3em;
     color: #fff;
     font-size: 1.06em;
 }
@@ -13,4 +14,13 @@ body, html {
     padding: 1em; 
     text-decoration: none;
     color: #fff;
+    transition: all 0.3s;
+    line-height: 5em;
+}
+.btn:hover {
+    transform: scale(1.2);
+    color: #f2c084;
+}
+a {
+    color: #f2c084;
 }
